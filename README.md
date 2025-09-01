@@ -24,7 +24,7 @@ The script fetches all episode IDs of your specified via the Jellyfin API (This 
 3. Create a venv and install all required packages.
     ```bash
     python3 -m venv venv
-    source venv/bin/acivate
+    source venv/bin/activate
     python3 -m pip install -r requirements.txt
     ```
 
